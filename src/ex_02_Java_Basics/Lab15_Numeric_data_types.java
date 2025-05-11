@@ -1,6 +1,6 @@
 package ex_02_Java_Basics;
 
-public class Lab03_Numeric_data_types {
+public class Lab15_Numeric_data_types {
     public static void main(String[] args) {
         byte b=10;
         int i = 10;
