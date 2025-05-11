@@ -1,7 +1,7 @@
 package ex_01_Java_Basics;
 
-public class Lab002 {
+public class Lab06_keywords {
     public static void main(String[] args) {
-        System.out.println("identify keywords");
+        System.out.println("Hi Keywords");
     }
 }
