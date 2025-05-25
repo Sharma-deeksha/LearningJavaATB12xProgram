@@ -1,9 +1,22 @@
 package ex_04_Operators;
 
+import java.util.Scanner;
+
 public class Lab056_Short_Char {
     public static void main(String[] args) {
-        short s = 10;
-        char c = 'A';//65
-        System.out.println(c+s);
-    }
-}
+
+            Scanner scanner = new Scanner(System.in);
+            System.out.println("Enter the day num(1 to 7)");
+            int day = scanner.nextInt();
+
+            switch (day) {
+                case 1:
+                    System.out.println("Mon");
+                    break;
+                case 2:
+                    System.out.println("Tue");
+                    break;
+            }
+
+
+    }}
