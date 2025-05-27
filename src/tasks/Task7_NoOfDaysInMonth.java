@@ -1,10 +1,8 @@
 package tasks;
 
-import java.awt.desktop.SystemEventListener;
-import java.lang.classfile.instruction.SwitchCase;
 import java.util.Scanner;
 
-public class Task_NoOfDaysInMonth {
+public class Task7_NoOfDaysInMonth {
     public static void main(String[] args) {
         Scanner scanner1=new Scanner(System.in);
         System.out.println("Enter the month number 1 - 12");
