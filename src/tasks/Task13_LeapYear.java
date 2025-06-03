@@ -2,7 +2,7 @@ package tasks;
 
 import java.util.Scanner;
 
-public class Task12_LeapYear {
+public class Task13_LeapYear {
     public static void main(String[] args) {
         System.out.println("enter the year to identify if it's leap year or not!");
         Scanner scanner=new Scanner(System.in);

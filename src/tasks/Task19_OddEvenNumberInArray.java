@@ -1,6 +1,6 @@
 package tasks;
 
-public class Task18_OddEvenNumberInArray {
+public class Task19_OddEvenNumberInArray {
     public static void main(String[] args) {
         int[] arr={4,6,1,9,3,10};
 

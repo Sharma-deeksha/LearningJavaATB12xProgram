@@ -2,7 +2,7 @@ package tasks;
 
 import java.util.Scanner;
 
-public class Task13_Fibonacci_series {
+public class Task14_Fibonacci_series {
     public static void main(String[] args) {
         System.out.println("Enter the number till where you want to print Fibonacci series");
         Scanner scanner=new Scanner(System.in);

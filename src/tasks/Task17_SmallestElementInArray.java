@@ -1,6 +1,6 @@
 package tasks;
 
-public class Task16_SmallestElementInArray {
+public class Task17_SmallestElementInArray {
     public static void main(String[] args) {
         int[] arr={6,4,7,2,9};
         int min=arr[1];

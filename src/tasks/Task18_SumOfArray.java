@@ -1,6 +1,6 @@
 package tasks;
 
-public class Task17_SumOfArray {
+public class Task18_SumOfArray {
     public static void main(String[] args) {
         int[] arr= {4,7,10,2,4};
         int sum=0;

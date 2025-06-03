@@ -2,7 +2,7 @@ package tasks;
 
 import java.util.Scanner;
 
-public class Task11_ArmstrongNumber {
+public class Task12_ArmstrongNumber {
     public static void main(String[] args) {
         System.out.println("Enter a positive integer number");
 
